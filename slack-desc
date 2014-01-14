@@ -1,0 +1,11 @@
+fswebcam: fswebcam (Tiny and flexible webcam program)
+fswebcam:
+fswebcam: fswebcam is a neat and simple webcam app.  It captures images from
+fswebcam: a V4L1/V4L2 compatible device or file,  averages them to reduce
+fswebcam: noise and draws a caption using the GD Graphics Library which also
+fswebcam: handles compressing the image to PNG or JPEG. The resulting image is
+fswebcam: saved to a file or sent to stdio where it can be piped to something
+fswebcam: like ncftpput or scp. 
+fswebcam:
+fswebcam:
+fswebcam: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
