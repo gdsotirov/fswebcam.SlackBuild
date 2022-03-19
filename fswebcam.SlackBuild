@@ -23,7 +23,7 @@
 . ../../slack-package.conf
 
 NAME=fswebcam
-VERSION=20160111
+VERSION=20200725
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
